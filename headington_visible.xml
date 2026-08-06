@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="car" accel="0.5" decel="1.0" sigma="0.5" length="5" maxSpeed="5" color="1,0,0"/>
+    <vehicle id="car_0" type="car" depart="0">
+        <route edges="-7620438#0"/>
+    </vehicle>
+    <vehicle id="car_1" type="car" depart="15">
+        <route edges="-7620438#1"/>
+    </vehicle>
+    <vehicle id="car_2" type="car" depart="30">
+        <route edges="7620438#0"/>
+    </vehicle>
+    <vehicle id="car_3" type="car" depart="45">
+        <route edges="7620438#1"/>
+    </vehicle>
+    <vehicle id="car_4" type="car" depart="60">
+        <route edges="4861291"/>
+    </vehicle>
+    <vehicle id="car_5" type="car" depart="75">
+        <route edges="-7620438#0"/>
+    </vehicle>
+    <vehicle id="car_6" type="car" depart="90">
+        <route edges="-7620438#1"/>
+    </vehicle>
+    <vehicle id="car_7" type="car" depart="105">
+        <route edges="7620438#0"/>
+    </vehicle>
+    <vehicle id="car_8" type="car" depart="120">
+        <route edges="7620438#1"/>
+    </vehicle>
+    <vehicle id="car_9" type="car" depart="135">
+        <route edges="4861291"/>
+    </vehicle>
+    <vehicle id="car_10" type="car" depart="150">
+        <route edges="-7620438#0"/>
+    </vehicle>
+    <vehicle id="car_11" type="car" depart="165">
+        <route edges="-7620438#1"/>
+    </vehicle>
+    <vehicle id="car_12" type="car" depart="180">
+        <route edges="7620438#0"/>
+    </vehicle>
+    <vehicle id="car_13" type="car" depart="195">
+        <route edges="7620438#1"/>
+    </vehicle>
+    <vehicle id="car_14" type="car" depart="210">
+        <route edges="4861291"/>
+    </vehicle>
+    <vehicle id="car_15" type="car" depart="225">
+        <route edges="-7620438#0"/>
+    </vehicle>
+    <vehicle id="car_16" type="car" depart="240">
+        <route edges="-7620438#1"/>
+    </vehicle>
+    <vehicle id="car_17" type="car" depart="255">
+        <route edges="7620438#0"/>
+    </vehicle>
+    <vehicle id="car_18" type="car" depart="270">
+        <route edges="7620438#1"/>
+    </vehicle>
+    <vehicle id="car_19" type="car" depart="285">
+        <route edges="4861291"/>
+    </vehicle>
+</routes>
