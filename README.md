@@ -249,11 +249,11 @@ Two planning scenarios were tested to demonstrate the digital twin's value as a 
 
 **Chaitra Thimmaiah**
 - Student Number: 19385551
-- Course: MSc Data Science
+- Course: MSc Data Science & AI
 - Module: COMP7039 — Dissertation in Computing Subjects
 - University: Oxford Brookes University
-- Supervisor: Muhammad Younas
-- Submission Date: 26 September 2026
+- Supervisor: Prof. Muhammad Younas
+- Submission Date: 25 September 2026
 
 ---
 
