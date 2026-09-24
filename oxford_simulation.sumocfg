@@ -1,0 +1,1 @@
+<configuration><input><net-file value="oxford_clean.net.xml"/><route-files value="oxford_visible_routes.xml"/></input><time><begin value="0"/><end value="3600"/></time><processing><ignore-route-errors value="true"/></processing></configuration>
